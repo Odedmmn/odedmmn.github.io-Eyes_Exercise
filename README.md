@@ -19,15 +19,9 @@ The Eye Exercise is a simple web page featuring two eyes that dynamically follow
 - Real-time eye movement tracking based on mouse position.
 - Seamless integration of JavaScript and CSS for a dynamic user experience.
 
-## Getting Started
 
-### Prerequisites
 
-To run this project locally, ensure you have the following installed:
-
-- Web browser (Google Chrome, Mozilla Firefox, or similar)
-
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -47,9 +41,6 @@ To run this project locally, ensure you have the following installed:
 
 Simply open the `index.html` file in a web browser, and the web page with the interactive eyes will appear. Move your mouse around the screen to see the eyes follow your cursor.
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
 
 ## License
 
