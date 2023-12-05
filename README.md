@@ -11,7 +11,7 @@ The Eye Exercise is a simple web page featuring two eyes that dynamically follow
 - [Usage](#usage)
 - [License](#license)
 
-## Features
+## Features 
 
 - Real-time eye movement tracking based on mouse position.
 - Seamless integration of JavaScript and CSS for a dynamic user experience.
